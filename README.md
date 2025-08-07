@@ -25,17 +25,15 @@
 
 ### 🔗 Links
 <div>
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/douglas_jml" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-douglas__jml-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:douglasjulyano2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-douglasjulyano2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://twitter.com/jmldouglas" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@jmldouglas-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
+
   </div>
   
 ---
