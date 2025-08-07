@@ -24,7 +24,7 @@
 ---
 
 ### 🔗 Links
-
+<div>
 <p align="left">
   <a href="https://instagram.com/douglas_jml" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-douglas__jml-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -36,6 +36,7 @@
     <img src="https://img.shields.io/badge/Twitter-@jmldouglas-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
+  </div>
 ---
 
 ### 📊 GitHub Stats
@@ -46,7 +47,3 @@
 </div>
 
 ---
-
-<p align="center">
-  Obrigado por visitar meu perfil! 🚀
-</p>
