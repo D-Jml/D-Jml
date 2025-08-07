@@ -25,7 +25,7 @@
 
 ### 🔗 Links
 <div>
-<p align="center">
+<p>
   <a href="https://instagram.com/douglas_jml" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
