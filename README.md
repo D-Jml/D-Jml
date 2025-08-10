@@ -26,6 +26,9 @@
 ### 🔗 Links
 <div>
 <p>
+  <a href="https://www.linkedin.com/in/douglaslimaservicos" target="_blank"> 
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://instagram.com/douglas_jml" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
