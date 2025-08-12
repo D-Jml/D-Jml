@@ -7,9 +7,8 @@
 ### 👨‍💻 Sobre mim
 
 - 🇧🇷 Brasileiro começando no mundo da programação.
-- 📚 Atualmente estudando **HTML** e **CSS** na prática.
+- 📚 Atualmente estudando **HTML**, **CSS**, **Java script** e **Java** na prática.
 - 🚀 Construindo minha primeira página web.
-- 🎯 Próximo passo: aprender **JavaScript** e aprofundar em desenvolvimento web.
 
 ---
 
